@@ -24,10 +24,11 @@ This app only provides links to YouTube videos.
 If you like this app, please support my YouTube channel.
 Thank you ❤️
 
-![Calculator1](https://github.com/user-attachments/assets/a86becb5-8d23-4b93-998d-ec35d438afb4)
-![Calculator2](https://github.com/user-attachments/assets/36ad00c4-0b63-41e5-80a1-20e8e5300a39)
-![Calculator3](https://github.com/user-attachments/assets/94f3cd98-bccd-4776-855d-9edcd4c9b984)
-![Calculator4](https://github.com/user-attachments/assets/5c0ef943-a6b3-4c54-8c19-4b6a11d4a379)
+
+![Channel1](https://github.com/user-attachments/assets/b6450d7b-8e79-4477-b30c-2fbb12b7f4ad)
+![Channel2](https://github.com/user-attachments/assets/2e72b3fb-8427-4918-8b67-3854c5135d23)
+![Channel3](https://github.com/user-attachments/assets/534e9aab-c2c7-4756-bbca-7a01c1f19839)
+![Channel4](https://github.com/user-attachments/assets/0d3471dc-3e38-48eb-9588-b5b80c3302a5)
 
 
 ** Download App [Download Link](https://github.com/AlagarSadjac/MyChennal/releases/download/V1.0/app-debug.apk)
